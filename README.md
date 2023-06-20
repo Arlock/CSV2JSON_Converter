@@ -3,8 +3,7 @@
 ## Installation
 ```bash
 pip install -r requirements.txt
-```
-
+``
 ## Usage
 This application converts a CSV file to JSON.
 
